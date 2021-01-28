@@ -1,8 +1,8 @@
-## Make sure you have the following installed to use this program:
+## Make sure you have the following installed to use this program
 - **Node.js**
 - **MongoDB** *(Installed as a service)*
-
-## Following this steps to use the application:
+---
+## How to setup
 - Download/Fork this project
 - Create a `.env` file in the root of the project folder (ex. `/demo-3-instance-test/.env`)
 - Paste the following configuration keys into the `.env` file you created:
@@ -18,3 +18,5 @@
 	> NOTE: Make sure that you provide your correct *username* and *password* by replacing the placeholder values for `AUTH_USER` and `AUTH_PASS` else the application might give an authentication error.
 
 - Install dependencies by typing `npm install` on the command line or `yarn install` *(if you prefer using yarn package manager)*
+  
+- Finally, To start the application type `npm start` or `yarn start` on the command line.
