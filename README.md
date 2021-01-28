@@ -4,7 +4,7 @@
 
 ## Following this steps to use the application:
 - Download/Fork this project
-- Create a `.env` file in the root of the project folder
+- Create a `.env` file in the root of the project folder (ex. `/demo-3-instance-test/.env`)
 - Paste the following configuration keys into the `.env` file you created:
 	```
 	PORT=3000
@@ -17,6 +17,6 @@
 	CRON_SCHEDULE = */2 * * * * *
 	EVENT_TIMEOUT_SECONDS = 60
 	```
-	> NOTE: Make sure to update/provide your correct *username* and *password* by replacing the placeholder values for `AUTH_USER` and `AUTH_PASS` else the application might give an authentication error.
+	> NOTE: Make sure that you provide your correct *username* and *password* by replacing the placeholder values for `AUTH_USER` and `AUTH_PASS` else the application might give an authentication error.
 
 - Install dependencies by typing `npm install` on the command line or `yarn install` *(if you prefer using yarn package manager)*
