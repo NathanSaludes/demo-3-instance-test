@@ -10,9 +10,7 @@
 	PORT=3000
 	AUTH_USER = <Your Username>
 	AUTH_PASS = <Password>
-	API_URL = https:
-	deloitteconsultingphilippinesdeliverycenterincdemo
-	service-now.com/api/now/table/em_event
+	API_URL = https://deloitteconsultingphilippinesdeliverycenterincdemoservice-now.com/api/now/table/em_event
 	DB_NAME = DEMO3
 	CRON_SCHEDULE = */2 * * * * *
 	EVENT_TIMEOUT_SECONDS = 60
