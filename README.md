@@ -1,6 +1,6 @@
 ## Make sure you have the following installed to use this program
-- **Node.js**
-- **MongoDB** *(Installed as a service)*
+- **Node.js** - https://nodejs.org/en/
+- **MongoDB** *(Installed as a service)* - https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-4.4.3-signed.msi
 ---
 ## How to setup
 - Download/Fork this project
